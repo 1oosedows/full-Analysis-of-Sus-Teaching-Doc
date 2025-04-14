@@ -1,0 +1,38 @@
+[
+  {
+    "Text": "ААА",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "ААА",
+        "IsCorrect": false
+      },
+      {
+        "Text": "АА",
+        "IsCorrect": true
+      },
+      {
+        "Text": "АААА",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Text": "АА",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "ААА",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ААА",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Жауабы",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

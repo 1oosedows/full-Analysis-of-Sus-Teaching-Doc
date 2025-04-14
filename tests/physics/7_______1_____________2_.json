@@ -1,0 +1,42 @@
+[
+  {
+    "Text": "вапварвар",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "вапвап",
+        "IsCorrect": false
+      },
+      {
+        "Text": "вапавпвапв",
+        "IsCorrect": true
+      },
+      {
+        "Text": "впавапва",
+        "IsCorrect": false
+      },
+      {
+        "Text": "вапвап",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Text": "вапвапвапврав",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "вапвап",
+        "IsCorrect": false
+      },
+      {
+        "Text": "авпвапва",
+        "IsCorrect": false
+      },
+      {
+        "Text": "вапва",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Text": "ЦУЦУУ",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "ЦУЦУУЦУ",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ЦУЦУ",
+        "IsCorrect": true
+      }
+    ]
+  }
+]

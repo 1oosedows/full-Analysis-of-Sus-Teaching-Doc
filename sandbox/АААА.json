@@ -1,0 +1,20 @@
+[
+  {
+    "Text": "АААА",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "АА",
+        "IsCorrect": false
+      },
+      {
+        "Text": "АААА",
+        "IsCorrect": false
+      },
+      {
+        "Text": "АА",
+        "IsCorrect": true
+      }
+    ]
+  }
+]

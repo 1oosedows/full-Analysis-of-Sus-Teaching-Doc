@@ -1,0 +1,42 @@
+[
+  {
+    "Text": "выфыв",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "Отвфывфывф",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Жауап жазу",
+        "IsCorrect": false
+      },
+      {
+        "Text": "фывфывфы",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Text": "фывфыу",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "фывфыв",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Жауап жазу",
+        "IsCorrect": false
+      },
+      {
+        "Text": "фывфыв",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Жауап жазу",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

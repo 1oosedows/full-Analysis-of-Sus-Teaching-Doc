@@ -1,0 +1,38 @@
+[
+  {
+    "Text": "ЙЙЙ",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "ЙЙОтвет 1",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ЖЙЙЙ",
+        "IsCorrect": true
+      },
+      {
+        "Text": "ЖЙ",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Text": "ЙЙЙЙ",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "Ответ 1",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ЖЙЙ",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ЙЙЙ",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

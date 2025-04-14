@@ -1,0 +1,34 @@
+[
+  {
+    "Text": "фывфыв",
+    "Points": 3,
+    "Answers": [
+      {
+        "Text": "Ответ 1",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Введите ответ",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Text": "фывос",
+    "Points": 2,
+    "Answers": [
+      {
+        "Text": "Ответ 1",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Введите ответ",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Введите ответ",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Text": "ываыва",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "ываыв",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ббб",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

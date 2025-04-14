@@ -1,0 +1,34 @@
+[
+  {
+    "Text": "Новый вопрос",
+    "Points": 2,
+    "Answers": [
+      {
+        "Text": "Введите ответ",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Введите ответ",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Text": "Новый вопрос",
+    "Points": 3,
+    "Answers": [
+      {
+        "Text": "Введите ответ",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Введите ответ",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Введите ответ",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

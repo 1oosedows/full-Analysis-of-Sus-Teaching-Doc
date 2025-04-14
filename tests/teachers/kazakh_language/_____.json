@@ -1,0 +1,19 @@
+[
+  {
+    "Text": "Сұрақ жазу",
+    "ImageBase64": "iVBORw0KGgoAAAANSUhEUgAAACcAAAAnCAYAAACMo1E1AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAOCSURBVFhH1ZhLaBNBGMcn8VJfJS2IpfSQUi++oJdiRfvw0Ad4EZKDPaUpiChCEnsRpGitR7UJ+ERJ7akIDSii1HqwtoopCqZQPRXcgxZFqPEBPpDG7//tTEzTJrsbarL+YLLfTHaz//nmm28mI+yMQ17TuFuDLiGcATK7UeXGf44jIUSKymK/NhHWZONSce7WkI+awmSSwJKQpEICL0CDWIMPQMLIW46rZJbpLSUB7+50uRu1pBafYc/RUNLwOV+SWSqPZUMeXKx16rbzFH3YRRhA3AelOEe9frUVPikuZUdxbhlzx1NctUD5hjLh97SIxvo6UVNVSaWC29++/0RlQYyOPRfTM3NcV/g9zSLY3c7fDVy6I1tzY1kcRAV8naLH2yRb8hO+OS4iww/YHhk8yp0Btft6+ZoPOazmgHfuXe9dJgyeiifmuHz59kO26sBTUyMn0561gmnP4cfRcwwhgIih2GMRHZ0i+zu3KXAPOuDpaCBPr+U2dADPbNtSzXUznjMlLlvY67l5cbhviF+YD9yvP7fca6s2rAFfxxJhXaHLhsIA7tl/6Dw/UwiG4tBrb2cD25h58Fj2MGaDSVOzuYJL+foycebibcNnVsJwWHs8TaLv2AG2wzTrIjT78oE4O3fioKzlZlWGtW3vTmkJERt7Ia3cqIDPh1kvGnpu5u5ZnnGIG8SPEYhNP3kbQ5uLh09fifEns7KWG0Nxbx7pgpDDukJX2C4WlpJwsTEUp1KGSiXFxIQ4feGGOJXtC2VrXTWnJrMYipumWFMg0AslSIn8/o1eXpvNdtJQXDQ2JS3Ked5mSz1X4JkAbQCAFe8bikNOio5Oso0fvjbQY+kFSClYXxXR2KTpPGcoDkSGx9OxhySbazHPBvdkbhjwG0YrTCb819Dl3n2aazn4+es3Jc5Z0U6rBby2qXIj2TvIXifefdC3QplgTfV7W3gZyxSGDcPHha9cN4Pp/RzAi1byGlYPNVS4J/t7JczMTiYTS+IAXh7wtad3KvnItyE1g2VxCojE0Lbt2U5xWMOBD+AdFKyf+CNTiChFweKKganZWir+C3HpMzH74EgoccPyaiNSStwiDutwcGcXcATWz+K0iTAqIW62B3z8mj7ZTGrxBC1jn8lspFKq00046Yg2MYgT1r/HriCpPYu73LtukUnrDzu1Ch9FABMyQsK6yGNxvUmIPxWAU/pya80mAAAAAElFTkSuQmCC",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "фывфы",
+        "IsCorrect": true,
+        "ImageBase64": null
+      },
+      {
+        "Text": "фывфывф",
+        "IsCorrect": true,
+        "ImageBase64": null
+      }
+    ]
+  }
+]

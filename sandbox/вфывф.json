@@ -1,0 +1,38 @@
+[
+  {
+    "Text": "фывфывфы",
+    "Points": 3,
+    "Answers": [
+      {
+        "Text": "фывыф",
+        "IsCorrect": false
+      },
+      {
+        "Text": "вфывфыв",
+        "IsCorrect": true
+      },
+      {
+        "Text": "фывфы",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Text": "фывфы",
+    "Points": 2,
+    "Answers": [
+      {
+        "Text": "фывфыв",
+        "IsCorrect": true
+      },
+      {
+        "Text": "фывффывф",
+        "IsCorrect": true
+      },
+      {
+        "Text": "ывфы",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

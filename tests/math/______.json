@@ -1,0 +1,38 @@
+[
+  {
+    "Text": "апрапр",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "Жапрап",
+        "IsCorrect": false
+      },
+      {
+        "Text": "прапра",
+        "IsCorrect": true
+      },
+      {
+        "Text": "апрап",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Text": "апрапр",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "Жауабы",
+        "IsCorrect": false
+      },
+      {
+        "Text": "апрапр",
+        "IsCorrect": false
+      },
+      {
+        "Text": "пар",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "Text": "Сұрақ жазу",
+    "ImageBase64": null,
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "Жауабы",
+        "IsCorrect": false,
+        "ImageBase64": null
+      }
+    ]
+  }
+]

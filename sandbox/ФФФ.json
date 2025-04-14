@@ -1,0 +1,46 @@
+[
+  {
+    "Text": "фывфыв",
+    "Points": 2,
+    "Answers": [
+      {
+        "Text": "фывфывфыв",
+        "IsCorrect": false
+      },
+      {
+        "Text": "фывфывф",
+        "IsCorrect": false
+      },
+      {
+        "Text": "фывфывф",
+        "IsCorrect": true
+      },
+      {
+        "Text": "фывфывфә\"і\"ңәі",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Text": "фывфы",
+    "Points": 3,
+    "Answers": [
+      {
+        "Text": "ыфвфыв",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Жауап жазу",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Жфывфыв",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Жауап жазу",
+        "IsCorrect": true
+      }
+    ]
+  }
+]

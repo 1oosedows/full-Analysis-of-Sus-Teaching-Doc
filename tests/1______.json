@@ -1,0 +1,38 @@
+[
+  {
+    "Text": "Негілываы",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "фывфывф",
+        "IsCorrect": false
+      },
+      {
+        "Text": "фывфывфы",
+        "IsCorrect": true
+      },
+      {
+        "Text": "фывфывфы",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Text": "фыввопрос",
+    "Points": 5,
+    "Answers": [
+      {
+        "Text": "Ответ 1",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Введфывфы",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Введите ответ",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

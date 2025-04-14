@@ -1,0 +1,34 @@
+[
+  {
+    "Text": "ФФФФ",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "ФФФ",
+        "IsCorrect": true
+      },
+      {
+        "Text": "ФФ",
+        "IsCorrect": false
+      },
+      {
+        "Text": "ФФФФ",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Text": "ФФФ",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "Жауабы",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Жауабы",
+        "IsCorrect": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "Text": "asdasd",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "Жауабы",
+        "IsCorrect": false
+      },
+      {
+        "Text": "asdas",
+        "IsCorrect": true
+      },
+      {
+        "Text": "asdasda",
+        "IsCorrect": false
+      },
+      {
+        "Text": "asdasda",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

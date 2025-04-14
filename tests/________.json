@@ -1,0 +1,64 @@
+[
+  {
+    "Text": "Новый вопрос",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "Жауап жазу",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Жауап жазу",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Жауап жазу",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Text": "Новый фыв",
+    "Points": 3,
+    "Answers": [
+      {
+        "Text": "Жауап жазу",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Жауап жазу",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Жауап жазу",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Жауап жазу",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Жауап жазу",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Text": "Новый вопрос",
+    "Points": 2,
+    "Answers": [
+      {
+        "Text": "Жауап жазу",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Жауап жазу",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Жауап жазу",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

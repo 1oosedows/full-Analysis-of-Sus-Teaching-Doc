@@ -1,0 +1,76 @@
+[
+  {
+    "Text": "1 жауап",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "222",
+        "IsCorrect": false
+      },
+      {
+        "Text": "111",
+        "IsCorrect": true
+      },
+      {
+        "Text": "222",
+        "IsCorrect": false
+      },
+      {
+        "Text": "222",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Text": "2 жауап",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "222",
+        "IsCorrect": false
+      },
+      {
+        "Text": "111",
+        "IsCorrect": true
+      },
+      {
+        "Text": "222",
+        "IsCorrect": false
+      },
+      {
+        "Text": "111",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Text": "3 жауап",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "222",
+        "IsCorrect": false
+      },
+      {
+        "Text": "111",
+        "IsCorrect": true
+      },
+      {
+        "Text": "111",
+        "IsCorrect": true
+      },
+      {
+        "Text": "111",
+        "IsCorrect": true
+      },
+      {
+        "Text": "222",
+        "IsCorrect": false
+      },
+      {
+        "Text": "222",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

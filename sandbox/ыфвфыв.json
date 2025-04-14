@@ -1,0 +1,30 @@
+[
+  {
+    "Text": "Сұрақ жазу",
+    "Points": 1,
+    "Answers": [
+      {
+        "Text": "Жауабы",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Text": "фывфыв",
+    "Points": 2,
+    "Answers": [
+      {
+        "Text": "фывфы",
+        "IsCorrect": true
+      },
+      {
+        "Text": "фывфы",
+        "IsCorrect": true
+      },
+      {
+        "Text": "ывфыв",
+        "IsCorrect": false
+      }
+    ]
+  }
+]
